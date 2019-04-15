@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipstersampleapp",
+    "packageName": "com.github.medmedchiheb",
+    "packageFolder": "com/github/medmedchiheb",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "Zjc4MDIxMjUxOWVjYWEyZWI0NzIwM2ExZGQ1NjA2OTU3NzkxY2QyMzIxZTk4YTU3OTU5YWU0NjQ2ZDJjODc5ZDYwZjc1MWNjMzhlOTQ4MTZkNmZhMzk2ZTA5Y2E4NmJiYTdjZjAzNjk1ODg2MjRmYzQwMTYzZmMxZjgzZWI1ZjE=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "medmedchiheb",
+  "repository-name": "jhipster-sample-application"
+}
